@@ -50,7 +50,7 @@ p{
     background-color: #fff7fb;
     padding: 28px;
     border-radius: 12px;
-
+    margin-bottom: 32px;
 }
 
 .tempo h2 {
@@ -79,5 +79,5 @@ ol, ul {
 .tempo li ::marker {
     color: #7a284e;
     font-size: 12px;
-    
+
 }
